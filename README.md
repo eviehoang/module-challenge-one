@@ -37,9 +37,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License 
+Not available at this time. 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
+* Code base provided by Berkeley Bootcamp Team, Horiseon.
+* Original Repository Source: [Github](https://github.com/coding-boot-camp/urban-octo-telegram) user Georgeyoo.
+* [Vengage.com](https://venngage.com/blog/accessible-colors/) for providing inspiration for websafe accesibile colors.
