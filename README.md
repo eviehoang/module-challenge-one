@@ -31,7 +31,7 @@ Not Available
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/eviehoang)
-- [Link to LinkedIn](https://www.linkedin.com/ynhihoang)
+- [Link to LinkedIn](https://www.linkedin.com/in/ynhihoang/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
