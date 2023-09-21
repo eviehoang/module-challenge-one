@@ -74,6 +74,7 @@ p {
     margin-left: 20px;
 }
 
+/* Changed the background-color to an accesible color */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,6 +106,7 @@ p {
 }
 
 /* consolidated boxes into a single class */
+/* Changed the background-color to an accesible color */
 .boxes {
     margin-bottom: 20px;
     padding: 50px;
